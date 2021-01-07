@@ -1,0 +1,11 @@
+.\objects\system_mkv56f24.o: devices\MKV56F24\system_MKV56F24.c
+.\objects\system_mkv56f24.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_mkv56f24.o: devices\MKV56F24\fsl_device_registers.h
+.\objects\system_mkv56f24.o: devices\MKV56F24\MKV56F24.h
+.\objects\system_mkv56f24.o: .\Include\core_cm7.h
+.\objects\system_mkv56f24.o: .\Include\cmsis_version.h
+.\objects\system_mkv56f24.o: .\Include\cmsis_compiler.h
+.\objects\system_mkv56f24.o: .\Include\cmsis_armcc.h
+.\objects\system_mkv56f24.o: .\Include\mpu_armv7.h
+.\objects\system_mkv56f24.o: devices\MKV56F24\system_MKV56F24.h
+.\objects\system_mkv56f24.o: devices\MKV56F24\MKV56F24_features.h

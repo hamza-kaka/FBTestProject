@@ -1,0 +1,14 @@
+no of digital inputs : 8 (including 4 pwm fault pins)
+no of digital outputs : 16 (including 12 pwms)
+Digital inputs - PTA5, PTA12-14. Fault pins -  PTB0-B3. (not hardware fault, just a simple GPIO, manipulation in software)
+Digital outputs - PTE29-30, PTA1-2. PWM - D0-D5 (eflex PWM0A0- PWM0B2); E5-6, B18-19, C16-17 (eflex PWM1A0-PWM1B2) 
+
+no. of analog inputs (inbuilt ADC) -  8 
+inbuilt analog inputs - PTE16-19 , HSADC0A_ch2-3 / HSADC1A_ch2-3 , HSADC0A_ch10-11 / HSADC1B_ch2-3
+no. of analog inputs (external ADC) -  8 
+pin config related to external ADC 
+CS, RD  - PTB21
+WR - PTB17
+D0-D15 - PTC0-15
+EOC - PTC18
+CNVSTRT - PTD6
