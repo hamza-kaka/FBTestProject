@@ -1,9 +1,9 @@
-*/Listings/
-*/Objects/
+**/Listings/
+**/Objects/
 
-*/*.scvd
-*/*.uvoptx
-*/*.TarazTech1
+**/*.scvd
+**/*.uvoptx
+**/*.TarazTech1
 
 app/JLinkLog.txt
 
