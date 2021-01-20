@@ -16,4 +16,4 @@
   ..\devices\MKV58F24\drivers\fsl_clock.h \
   ..\devices\MKV58F24\drivers\fsl_ftm.h ..\board\pin_mux.h \
   ..\board\clock_config.h ..\devices\MKV58F24\drivers\fsl_common.h \
-  ..\..\test\ project\UserConfig.h
+  ..\UserConfig.h

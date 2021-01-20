@@ -4422,146 +4422,146 @@ Image Symbol Table
     [Anonymous Symbol]                       0x10003590   Section        0  fsl_uart.o(.text.UART_WriteBlocking)
     [Anonymous Symbol]                       0x100035d8   Section        0  fsl_assert.o(.text.__aeabi_assert)
     [Anonymous Symbol]                       0x100035f8   Section        0  main.o(.text.main)
-    i.__scatterload_copy                     0x1000368e   Section       14  handlers.o(i.__scatterload_copy)
-    i.__scatterload_null                     0x1000369c   Section        2  handlers.o(i.__scatterload_null)
-    i.__scatterload_zeroinit                 0x1000369e   Section       14  handlers.o(i.__scatterload_zeroinit)
-    .L__const.BOARD_InitPins.BST_CHNL_0_config 0x100036ac   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.BST_CHNL_0_config)
-    .L__const.BOARD_InitPins.BST_CHNL_1_config 0x100036ae   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.BST_CHNL_1_config)
-    .L__const.BOARD_InitPins.a1_config       0x100036b0   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.a1_config)
-    .L__const.BOARD_InitPins.a2_config       0x100036b2   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.a2_config)
-    .L__const.BOARD_InitPins.test_pin_config 0x100036b4   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.test_pin_config)
-    CLOCK_GetFllFreq.fllFactorTable          0x100036b6   Data          16  fsl_clock.o(.rodata.CLOCK_GetFllFreq.fllFactorTable)
-    [Anonymous Symbol]                       0x100036b6   Section        0  fsl_clock.o(.rodata.CLOCK_GetFllFreq.fllFactorTable)
-    s_UartAdapterBase                        0x100036d8   Data          24  uart_adapter.o(.rodata.s_UartAdapterBase)
-    [Anonymous Symbol]                       0x100036d8   Section        0  uart_adapter.o(.rodata.s_UartAdapterBase)
-    s_ftmBases                               0x100036f0   Data          16  fsl_ftm.o(.rodata.s_ftmBases)
-    [Anonymous Symbol]                       0x100036f0   Section        0  fsl_ftm.o(.rodata.s_ftmBases)
-    s_ftmClocks                              0x10003700   Data          16  fsl_ftm.o(.rodata.s_ftmClocks)
-    [Anonymous Symbol]                       0x10003700   Section        0  fsl_ftm.o(.rodata.s_ftmClocks)
-    .L.str                                   0x10003718   Data          43  fsl_assert.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003718   Section        0  fsl_assert.o(.rodata.str1.1)
-    .L.str.1                                 0x10003743   Data          64  fsl_debug_console.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003743   Section        0  fsl_debug_console.o(.rodata.str1.1)
-    .L.str.2                                 0x10003783   Data          10  fsl_debug_console.o(.rodata.str1.1)
-    .L.str                                   0x1000378d   Data          11  fsl_debug_console.o(.rodata.str1.1)
-    .L.str.3                                 0x10003798   Data          12  fsl_debug_console.o(.rodata.str1.1)
-    .L.str.5                                 0x10003798   Data           5  uart_adapter.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003798   Section        0  uart_adapter.o(.rodata.str1.1)
-    .L.str.1                                 0x1000379d   Data          34  uart_adapter.o(.rodata.str1.1)
-    .L.str.4                                 0x100037a4   Data           3  fsl_debug_console.o(.rodata.str1.1)
-    .L.str.5                                 0x100037a7   Data          40  fsl_debug_console.o(.rodata.str1.1)
-    .L.str                                   0x100037bf   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.4                                 0x100037bf   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.2                                 0x100037c1   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.4                                 0x100037c6   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.6                                 0x100037c6   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.8                                 0x100037c6   Data           7  uart_adapter.o(.rodata.str1.1)
-    .L.str.3                                 0x100037c8   Data          69  uart_adapter.o(.rodata.str1.1)
-    .L.str                                   0x100037cd   Data           7  serial_manager.o(.rodata.str1.1)
-    .L.str.1                                 0x100037cd   Data          46  serial_manager.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x100037cd   Section        0  serial_manager.o(.rodata.str1.1)
-    .L.str.3                                 0x100037fb   Data          12  serial_manager.o(.rodata.str1.1)
-    .L.str.2                                 0x10003802   Data          13  serial_manager.o(.rodata.str1.1)
-    .L.str.3                                 0x10003807   Data           7  serial_manager.o(.rodata.str1.1)
-    .L.str.7                                 0x10003807   Data           7  serial_manager.o(.rodata.str1.1)
-    .L.str.4                                 0x1000380d   Data          36  uart_adapter.o(.rodata.str1.1)
-    .L.str                                   0x1000380e   Data          13  serial_port_uart.o(.rodata.str1.1)
-    .L.str.1                                 0x1000380e   Data          48  serial_port_uart.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x1000380e   Section        0  serial_port_uart.o(.rodata.str1.1)
-    .L.str.5                                 0x10003822   Data          11  serial_manager.o(.rodata.str1.1)
-    .L.str.6                                 0x1000382d   Data          61  serial_manager.o(.rodata.str1.1)
-    .L.str.2                                 0x1000383e   Data          13  serial_port_uart.o(.rodata.str1.1)
-    .L.str.1                                 0x1000384b   Data          40  fsl_clock.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x1000384b   Section        0  fsl_clock.o(.rodata.str1.1)
-    .L.str.2                                 0x10003873   Data          11  fsl_clock.o(.rodata.str1.1)
-    .L.str.5                                 0x1000387e   Data          18  fsl_clock.o(.rodata.str1.1)
-    .L.str                                   0x10003884   Data          12  fsl_clock.o(.rodata.str1.1)
-    .L.str                                   0x10003890   Data          35  fsl_dspi.o(.rodata.str1.1)
-    .L.str.9                                 0x10003890   Data          24  fsl_dspi.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003890   Section        0  fsl_dspi.o(.rodata.str1.1)
-    .L.str.4                                 0x10003891   Data           6  fsl_clock.o(.rodata.str1.1)
-    .L.str.10                                0x100038a8   Data          24  fsl_dspi.o(.rodata.str1.1)
-    .L.str.11                                0x100038c0   Data          24  fsl_dspi.o(.rodata.str1.1)
-    .L.str.1                                 0x100038d8   Data          39  fsl_dspi.o(.rodata.str1.1)
-    .L.str.2                                 0x100038da   Data          21  fsl_dspi.o(.rodata.str1.1)
-    .L.str.3                                 0x100038ef   Data           6  fsl_dspi.o(.rodata.str1.1)
-    .L.str.4                                 0x100038f5   Data          20  fsl_dspi.o(.rodata.str1.1)
-    .L.str                                   0x100038ff   Data          52  fsl_edma.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x100038ff   Section        0  fsl_edma.o(.rodata.str1.1)
-    .L.str.5                                 0x10003909   Data          16  fsl_dspi.o(.rodata.str1.1)
-    .L.str.6                                 0x10003919   Data          15  fsl_dspi.o(.rodata.str1.1)
-    .L.str.7                                 0x10003928   Data          17  fsl_dspi.o(.rodata.str1.1)
-    .L.str.7                                 0x10003933   Data          15  fsl_edma.o(.rodata.str1.1)
-    .L.str.8                                 0x10003939   Data          13  fsl_dspi.o(.rodata.str1.1)
-    .L.str.1                                 0x10003942   Data          39  fsl_edma.o(.rodata.str1.1)
-    .L.str.2                                 0x1000395a   Data          12  fsl_edma.o(.rodata.str1.1)
-    .L.str.3                                 0x10003966   Data          30  fsl_edma.o(.rodata.str1.1)
-    .L.str                                   0x10003969   Data          38  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.21                                0x10003969   Data          27  fsl_flexcan.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003969   Section        0  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.22                                0x10003984   Data          27  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.4                                 0x10003984   Data          15  fsl_edma.o(.rodata.str1.1)
-    .L.str.5                                 0x10003993   Data          34  fsl_edma.o(.rodata.str1.1)
-    .L.str.23                                0x1000399f   Data          27  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.6                                 0x100039b5   Data          58  fsl_edma.o(.rodata.str1.1)
-    .L.str.2                                 0x100039b9   Data          16  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.1                                 0x100039ba   Data          42  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.3                                 0x100039c9   Data         117  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.7                                 0x100039e4   Data          43  fsl_ftm.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x100039e4   Section        0  fsl_ftm.o(.rodata.str1.1)
-    .L.str.8                                 0x100039fe   Data          34  fsl_edma.o(.rodata.str1.1)
-    .L.str.2                                 0x10003a0f   Data          15  fsl_ftm.o(.rodata.str1.1)
-    .L.str.1                                 0x10003a1e   Data          38  fsl_ftm.o(.rodata.str1.1)
-    .L.str.9                                 0x10003a20   Data          16  fsl_edma.o(.rodata.str1.1)
-    .L.str.10                                0x10003a30   Data          17  fsl_edma.o(.rodata.str1.1)
-    .L.str.4                                 0x10003a3e   Data          44  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.11                                0x10003a41   Data         119  fsl_edma.o(.rodata.str1.1)
-    .L.str.6                                 0x10003a44   Data          17  fsl_ftm.o(.rodata.str1.1)
-    .L.str.3                                 0x10003a55   Data          19  fsl_ftm.o(.rodata.str1.1)
-    .L.str.17                                0x10003a68   Data          16  fsl_ftm.o(.rodata.str1.1)
-    .L.str.5                                 0x10003a6a   Data          42  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.16                                0x10003a78   Data          25  fsl_ftm.o(.rodata.str1.1)
-    .L.str.4                                 0x10003a91   Data          18  fsl_ftm.o(.rodata.str1.1)
-    .L.str.8                                 0x10003a92   Data          19  fsl_ftm.o(.rodata.str1.1)
-    .L.str.6                                 0x10003a94   Data          35  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.5                                 0x10003aa3   Data          17  fsl_ftm.o(.rodata.str1.1)
-    .L.str.9                                 0x10003aa5   Data          17  fsl_ftm.o(.rodata.str1.1)
-    .L.str.1                                 0x10003ab4   Data          39  fsl_gpio.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x10003ab4   Section        0  fsl_gpio.o(.rodata.str1.1)
-    .L.str.10                                0x10003ab6   Data           6  fsl_ftm.o(.rodata.str1.1)
-    .L.str.7                                 0x10003ab7   Data          29  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.12                                0x10003ab8   Data         125  fsl_edma.o(.rodata.str1.1)
-    .L.str.11                                0x10003abc   Data          10  fsl_ftm.o(.rodata.str1.1)
-    .L.str.12                                0x10003ac6   Data          21  fsl_ftm.o(.rodata.str1.1)
-    .L.str.8                                 0x10003ad4   Data          45  fsl_flexcan.o(.rodata.str1.1)
-    .L.str                                   0x10003adb   Data          15  fsl_gpio.o(.rodata.str1.1)
-    .L.str.13                                0x10003adb   Data          21  fsl_ftm.o(.rodata.str1.1)
-    .L.str                                   0x10003ae3   Data           7  fsl_gpio.o(.rodata.str1.1)
-    .L.str.3                                 0x10003ae3   Data           7  fsl_gpio.o(.rodata.str1.1)
-    .L.str.2                                 0x10003aea   Data          35  fsl_gpio.o(.rodata.str1.1)
-    .L.str.14                                0x10003af0   Data          20  fsl_ftm.o(.rodata.str1.1)
-    .L.str.9                                 0x10003b01   Data          45  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.15                                0x10003b04   Data          16  fsl_ftm.o(.rodata.str1.1)
-    .L.str.10                                0x10003b2e   Data          35  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.13                                0x10003b35   Data          41  fsl_edma.o(.rodata.str1.1)
-    .L.str.11                                0x10003b51   Data          37  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.14                                0x10003b5e   Data           6  fsl_edma.o(.rodata.str1.1)
-    .L.str.15                                0x10003b64   Data          35  fsl_edma.o(.rodata.str1.1)
-    .L.str.12                                0x10003b76   Data           6  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.13                                0x10003b7c   Data          17  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.16                                0x10003b87   Data          29  fsl_edma.o(.rodata.str1.1)
-    .L.str.14                                0x10003b8d   Data          23  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.15                                0x10003ba4   Data          17  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.16                                0x10003bb5   Data          15  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.17                                0x10003bc4   Data          16  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.18                                0x10003bd4   Data          51  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.19                                0x10003c07   Data          44  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.20                                0x10003c33   Data          18  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.24                                0x10003c96   Data          38  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.25                                0x10003cbc   Data          25  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.26                                0x10003cd5   Data          25  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.27                                0x10003cee   Data          38  fsl_flexcan.o(.rodata.str1.1)
-    .L.str.28                                0x10003d14   Data          74  fsl_flexcan.o(.rodata.str1.1)
+    i.__scatterload_copy                     0x1000368a   Section       14  handlers.o(i.__scatterload_copy)
+    i.__scatterload_null                     0x10003698   Section        2  handlers.o(i.__scatterload_null)
+    i.__scatterload_zeroinit                 0x1000369a   Section       14  handlers.o(i.__scatterload_zeroinit)
+    .L__const.BOARD_InitPins.BST_CHNL_0_config 0x100036a8   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.BST_CHNL_0_config)
+    .L__const.BOARD_InitPins.BST_CHNL_1_config 0x100036aa   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.BST_CHNL_1_config)
+    .L__const.BOARD_InitPins.a1_config       0x100036ac   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.a1_config)
+    .L__const.BOARD_InitPins.a2_config       0x100036ae   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.a2_config)
+    .L__const.BOARD_InitPins.test_pin_config 0x100036b0   Data           2  pin_mux.o(.rodata..L__const.BOARD_InitPins.test_pin_config)
+    CLOCK_GetFllFreq.fllFactorTable          0x100036b2   Data          16  fsl_clock.o(.rodata.CLOCK_GetFllFreq.fllFactorTable)
+    [Anonymous Symbol]                       0x100036b2   Section        0  fsl_clock.o(.rodata.CLOCK_GetFllFreq.fllFactorTable)
+    s_UartAdapterBase                        0x100036d4   Data          24  uart_adapter.o(.rodata.s_UartAdapterBase)
+    [Anonymous Symbol]                       0x100036d4   Section        0  uart_adapter.o(.rodata.s_UartAdapterBase)
+    s_ftmBases                               0x100036ec   Data          16  fsl_ftm.o(.rodata.s_ftmBases)
+    [Anonymous Symbol]                       0x100036ec   Section        0  fsl_ftm.o(.rodata.s_ftmBases)
+    s_ftmClocks                              0x100036fc   Data          16  fsl_ftm.o(.rodata.s_ftmClocks)
+    [Anonymous Symbol]                       0x100036fc   Section        0  fsl_ftm.o(.rodata.s_ftmClocks)
+    .L.str                                   0x10003714   Data          43  fsl_assert.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x10003714   Section        0  fsl_assert.o(.rodata.str1.1)
+    .L.str.1                                 0x1000373f   Data          64  fsl_debug_console.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x1000373f   Section        0  fsl_debug_console.o(.rodata.str1.1)
+    .L.str.2                                 0x1000377f   Data          10  fsl_debug_console.o(.rodata.str1.1)
+    .L.str                                   0x10003789   Data          11  fsl_debug_console.o(.rodata.str1.1)
+    .L.str.3                                 0x10003794   Data          12  fsl_debug_console.o(.rodata.str1.1)
+    .L.str.5                                 0x10003794   Data           5  uart_adapter.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x10003794   Section        0  uart_adapter.o(.rodata.str1.1)
+    .L.str.1                                 0x10003799   Data          34  uart_adapter.o(.rodata.str1.1)
+    .L.str.4                                 0x100037a0   Data           3  fsl_debug_console.o(.rodata.str1.1)
+    .L.str.5                                 0x100037a3   Data          40  fsl_debug_console.o(.rodata.str1.1)
+    .L.str                                   0x100037bb   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.4                                 0x100037bb   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.2                                 0x100037bd   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.4                                 0x100037c2   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.6                                 0x100037c2   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.8                                 0x100037c2   Data           7  uart_adapter.o(.rodata.str1.1)
+    .L.str.3                                 0x100037c4   Data          69  uart_adapter.o(.rodata.str1.1)
+    .L.str                                   0x100037c9   Data           7  serial_manager.o(.rodata.str1.1)
+    .L.str.1                                 0x100037c9   Data          46  serial_manager.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x100037c9   Section        0  serial_manager.o(.rodata.str1.1)
+    .L.str.3                                 0x100037f7   Data          12  serial_manager.o(.rodata.str1.1)
+    .L.str.2                                 0x100037fe   Data          13  serial_manager.o(.rodata.str1.1)
+    .L.str.3                                 0x10003803   Data           7  serial_manager.o(.rodata.str1.1)
+    .L.str.7                                 0x10003803   Data           7  serial_manager.o(.rodata.str1.1)
+    .L.str.4                                 0x10003809   Data          36  uart_adapter.o(.rodata.str1.1)
+    .L.str                                   0x1000380a   Data          13  serial_port_uart.o(.rodata.str1.1)
+    .L.str.1                                 0x1000380a   Data          48  serial_port_uart.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x1000380a   Section        0  serial_port_uart.o(.rodata.str1.1)
+    .L.str.5                                 0x1000381e   Data          11  serial_manager.o(.rodata.str1.1)
+    .L.str.6                                 0x10003829   Data          61  serial_manager.o(.rodata.str1.1)
+    .L.str.2                                 0x1000383a   Data          13  serial_port_uart.o(.rodata.str1.1)
+    .L.str.1                                 0x10003847   Data          40  fsl_clock.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x10003847   Section        0  fsl_clock.o(.rodata.str1.1)
+    .L.str.2                                 0x1000386f   Data          11  fsl_clock.o(.rodata.str1.1)
+    .L.str.5                                 0x1000387a   Data          18  fsl_clock.o(.rodata.str1.1)
+    .L.str                                   0x10003880   Data          12  fsl_clock.o(.rodata.str1.1)
+    .L.str                                   0x1000388c   Data          35  fsl_dspi.o(.rodata.str1.1)
+    .L.str.9                                 0x1000388c   Data          24  fsl_dspi.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x1000388c   Section        0  fsl_dspi.o(.rodata.str1.1)
+    .L.str.4                                 0x1000388d   Data           6  fsl_clock.o(.rodata.str1.1)
+    .L.str.10                                0x100038a4   Data          24  fsl_dspi.o(.rodata.str1.1)
+    .L.str.11                                0x100038bc   Data          24  fsl_dspi.o(.rodata.str1.1)
+    .L.str.1                                 0x100038d4   Data          39  fsl_dspi.o(.rodata.str1.1)
+    .L.str.2                                 0x100038d6   Data          21  fsl_dspi.o(.rodata.str1.1)
+    .L.str.3                                 0x100038eb   Data           6  fsl_dspi.o(.rodata.str1.1)
+    .L.str.4                                 0x100038f1   Data          20  fsl_dspi.o(.rodata.str1.1)
+    .L.str                                   0x100038fb   Data          52  fsl_edma.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x100038fb   Section        0  fsl_edma.o(.rodata.str1.1)
+    .L.str.5                                 0x10003905   Data          16  fsl_dspi.o(.rodata.str1.1)
+    .L.str.6                                 0x10003915   Data          15  fsl_dspi.o(.rodata.str1.1)
+    .L.str.7                                 0x10003924   Data          17  fsl_dspi.o(.rodata.str1.1)
+    .L.str.7                                 0x1000392f   Data          15  fsl_edma.o(.rodata.str1.1)
+    .L.str.8                                 0x10003935   Data          13  fsl_dspi.o(.rodata.str1.1)
+    .L.str.1                                 0x1000393e   Data          39  fsl_edma.o(.rodata.str1.1)
+    .L.str.2                                 0x10003956   Data          12  fsl_edma.o(.rodata.str1.1)
+    .L.str.3                                 0x10003962   Data          30  fsl_edma.o(.rodata.str1.1)
+    .L.str                                   0x10003965   Data          38  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.21                                0x10003965   Data          27  fsl_flexcan.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x10003965   Section        0  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.22                                0x10003980   Data          27  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.4                                 0x10003980   Data          15  fsl_edma.o(.rodata.str1.1)
+    .L.str.5                                 0x1000398f   Data          34  fsl_edma.o(.rodata.str1.1)
+    .L.str.23                                0x1000399b   Data          27  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.6                                 0x100039b1   Data          58  fsl_edma.o(.rodata.str1.1)
+    .L.str.2                                 0x100039b5   Data          16  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.1                                 0x100039b6   Data          42  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.3                                 0x100039c5   Data         117  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.7                                 0x100039e0   Data          43  fsl_ftm.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x100039e0   Section        0  fsl_ftm.o(.rodata.str1.1)
+    .L.str.8                                 0x100039fa   Data          34  fsl_edma.o(.rodata.str1.1)
+    .L.str.2                                 0x10003a0b   Data          15  fsl_ftm.o(.rodata.str1.1)
+    .L.str.1                                 0x10003a1a   Data          38  fsl_ftm.o(.rodata.str1.1)
+    .L.str.9                                 0x10003a1c   Data          16  fsl_edma.o(.rodata.str1.1)
+    .L.str.10                                0x10003a2c   Data          17  fsl_edma.o(.rodata.str1.1)
+    .L.str.4                                 0x10003a3a   Data          44  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.11                                0x10003a3d   Data         119  fsl_edma.o(.rodata.str1.1)
+    .L.str.6                                 0x10003a40   Data          17  fsl_ftm.o(.rodata.str1.1)
+    .L.str.3                                 0x10003a51   Data          19  fsl_ftm.o(.rodata.str1.1)
+    .L.str.17                                0x10003a64   Data          16  fsl_ftm.o(.rodata.str1.1)
+    .L.str.5                                 0x10003a66   Data          42  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.16                                0x10003a74   Data          25  fsl_ftm.o(.rodata.str1.1)
+    .L.str.4                                 0x10003a8d   Data          18  fsl_ftm.o(.rodata.str1.1)
+    .L.str.8                                 0x10003a8e   Data          19  fsl_ftm.o(.rodata.str1.1)
+    .L.str.6                                 0x10003a90   Data          35  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.5                                 0x10003a9f   Data          17  fsl_ftm.o(.rodata.str1.1)
+    .L.str.9                                 0x10003aa1   Data          17  fsl_ftm.o(.rodata.str1.1)
+    .L.str.1                                 0x10003ab0   Data          39  fsl_gpio.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x10003ab0   Section        0  fsl_gpio.o(.rodata.str1.1)
+    .L.str.10                                0x10003ab2   Data           6  fsl_ftm.o(.rodata.str1.1)
+    .L.str.7                                 0x10003ab3   Data          29  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.12                                0x10003ab4   Data         125  fsl_edma.o(.rodata.str1.1)
+    .L.str.11                                0x10003ab8   Data          10  fsl_ftm.o(.rodata.str1.1)
+    .L.str.12                                0x10003ac2   Data          21  fsl_ftm.o(.rodata.str1.1)
+    .L.str.8                                 0x10003ad0   Data          45  fsl_flexcan.o(.rodata.str1.1)
+    .L.str                                   0x10003ad7   Data          15  fsl_gpio.o(.rodata.str1.1)
+    .L.str.13                                0x10003ad7   Data          21  fsl_ftm.o(.rodata.str1.1)
+    .L.str                                   0x10003adf   Data           7  fsl_gpio.o(.rodata.str1.1)
+    .L.str.3                                 0x10003adf   Data           7  fsl_gpio.o(.rodata.str1.1)
+    .L.str.2                                 0x10003ae6   Data          35  fsl_gpio.o(.rodata.str1.1)
+    .L.str.14                                0x10003aec   Data          20  fsl_ftm.o(.rodata.str1.1)
+    .L.str.9                                 0x10003afd   Data          45  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.15                                0x10003b00   Data          16  fsl_ftm.o(.rodata.str1.1)
+    .L.str.10                                0x10003b2a   Data          35  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.13                                0x10003b31   Data          41  fsl_edma.o(.rodata.str1.1)
+    .L.str.11                                0x10003b4d   Data          37  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.14                                0x10003b5a   Data           6  fsl_edma.o(.rodata.str1.1)
+    .L.str.15                                0x10003b60   Data          35  fsl_edma.o(.rodata.str1.1)
+    .L.str.12                                0x10003b72   Data           6  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.13                                0x10003b78   Data          17  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.16                                0x10003b83   Data          29  fsl_edma.o(.rodata.str1.1)
+    .L.str.14                                0x10003b89   Data          23  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.15                                0x10003ba0   Data          17  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.16                                0x10003bb1   Data          15  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.17                                0x10003bc0   Data          16  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.18                                0x10003bd0   Data          51  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.19                                0x10003c03   Data          44  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.20                                0x10003c2f   Data          18  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.24                                0x10003c92   Data          38  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.25                                0x10003cb8   Data          25  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.26                                0x10003cd1   Data          25  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.27                                0x10003cea   Data          38  fsl_flexcan.o(.rodata.str1.1)
+    .L.str.28                                0x10003d10   Data          74  fsl_flexcan.o(.rodata.str1.1)
     s_fastIrcFreq                            0x20000004   Data           4  fsl_clock.o(.data.s_fastIrcFreq)
     [Anonymous Symbol]                       0x20000004   Section        0  fsl_clock.o(.data.s_fastIrcFreq)
     s_flexcanIsr                             0x20000008   Data           4  fsl_flexcan.o(.data.s_flexcanIsr)
@@ -4845,15 +4845,15 @@ Image Symbol Table
     UART5_RX_TX_DriverIRQHandler             0x10003589   Thumb Code     8  fsl_uart.o(.text.UART5_RX_TX_DriverIRQHandler)
     UART_WriteBlocking                       0x10003591   Thumb Code    72  fsl_uart.o(.text.UART_WriteBlocking)
     __aeabi_assert                           0x100035d9   Thumb Code    32  fsl_assert.o(.text.__aeabi_assert)
-    main                                     0x100035f9   Thumb Code   150  main.o(.text.main)
-    __scatterload_copy                       0x1000368f   Thumb Code    14  handlers.o(i.__scatterload_copy)
-    __scatterload_null                       0x1000369d   Thumb Code     2  handlers.o(i.__scatterload_null)
-    __scatterload_zeroinit                   0x1000369f   Thumb Code    14  handlers.o(i.__scatterload_zeroinit)
-    mcgConfig_BOARD_BootClockRUN             0x100036c6   Data          10  clock_config.o(.rodata.mcgConfig_BOARD_BootClockRUN)
-    oscConfig_BOARD_BootClockRUN             0x100036d0   Data           8  clock_config.o(.rodata.oscConfig_BOARD_BootClockRUN)
-    simConfig_BOARD_BootClockRUN             0x10003710   Data           8  clock_config.o(.rodata.simConfig_BOARD_BootClockRUN)
-    Region$$Table$$Base                      0x10003aec   Number         0  anon$$obj.o(Region$$Table)
-    Region$$Table$$Limit                     0x10003b0c   Number         0  anon$$obj.o(Region$$Table)
+    main                                     0x100035f9   Thumb Code   146  main.o(.text.main)
+    __scatterload_copy                       0x1000368b   Thumb Code    14  handlers.o(i.__scatterload_copy)
+    __scatterload_null                       0x10003699   Thumb Code     2  handlers.o(i.__scatterload_null)
+    __scatterload_zeroinit                   0x1000369b   Thumb Code    14  handlers.o(i.__scatterload_zeroinit)
+    mcgConfig_BOARD_BootClockRUN             0x100036c2   Data          10  clock_config.o(.rodata.mcgConfig_BOARD_BootClockRUN)
+    oscConfig_BOARD_BootClockRUN             0x100036cc   Data           8  clock_config.o(.rodata.oscConfig_BOARD_BootClockRUN)
+    simConfig_BOARD_BootClockRUN             0x1000370c   Data           8  clock_config.o(.rodata.simConfig_BOARD_BootClockRUN)
+    Region$$Table$$Base                      0x10003ae8   Number         0  anon$$obj.o(Region$$Table)
+    Region$$Table$$Limit                     0x10003b08   Number         0  anon$$obj.o(Region$$Table)
     SystemCoreClock                          0x20000000   Data           4  system_mkv58f24.o(.data.SystemCoreClock)
     ftmInfo                                  0x20000014   Data          28  main.o(.bss.ftmInfo)
     ftmParam                                 0x20000030   Data          10  main.o(.bss.ftmParam)
@@ -4871,9 +4871,9 @@ Memory Map of the image
 
   Image Entry point : 0x10000411
 
-  Load Region LR_m_text (Base: 0x10000000, Size: 0x00003b20, Max: 0x00100000, ABSOLUTE)
+  Load Region LR_m_text (Base: 0x10000000, Size: 0x00003b1c, Max: 0x00100000, ABSOLUTE)
 
-    Execution Region RW_m_data (Exec base: 0x00000040, Load base: 0x10003b0c, Size: 0x00000000, Max: 0x0000ffc0, ABSOLUTE)
+    Execution Region RW_m_data (Exec base: 0x00000040, Load base: 0x10003b08, Size: 0x00000000, Max: 0x0000ffc0, ABSOLUTE)
 
     **** No section assigned to this execution region ****
 
@@ -4892,7 +4892,7 @@ Memory Map of the image
     0x10000400   0x10000400   0x00000010   Data   RO          254    .FlashConfig        startup_mkv58f24.o
 
 
-    Execution Region ER_m_text (Exec base: 0x10000410, Load base: 0x10000410, Size: 0x000036fc, Max: 0x000ffbf0, ABSOLUTE)
+    Execution Region ER_m_text (Exec base: 0x10000410, Load base: 0x10000410, Size: 0x000036f8, Max: 0x000ffbf0, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
@@ -5077,49 +5077,49 @@ Memory Map of the image
     0x10003588   0x10003588   0x00000008   Code   RO         2008    .text.UART5_RX_TX_DriverIRQHandler  fsl_uart.o
     0x10003590   0x10003590   0x00000048   Code   RO         1948    .text.UART_WriteBlocking  fsl_uart.o
     0x100035d8   0x100035d8   0x00000020   Code   RO           71    .text.__aeabi_assert  fsl_assert.o
-    0x100035f8   0x100035f8   0x00000096   Code   RO            4    .text.main          main.o
-    0x1000368e   0x1000368e   0x0000000e   Code   RO         2204    i.__scatterload_copy  mc_w.l(handlers.o)
-    0x1000369c   0x1000369c   0x00000002   Code   RO         2205    i.__scatterload_null  mc_w.l(handlers.o)
-    0x1000369e   0x1000369e   0x0000000e   Code   RO         2206    i.__scatterload_zeroinit  mc_w.l(handlers.o)
-    0x100036ac   0x100036ac   0x00000002   Data   RO           47    .rodata..L__const.BOARD_InitPins.BST_CHNL_0_config  pin_mux.o
-    0x100036ae   0x100036ae   0x00000002   Data   RO           48    .rodata..L__const.BOARD_InitPins.BST_CHNL_1_config  pin_mux.o
-    0x100036b0   0x100036b0   0x00000002   Data   RO           45    .rodata..L__const.BOARD_InitPins.a1_config  pin_mux.o
-    0x100036b2   0x100036b2   0x00000002   Data   RO           46    .rodata..L__const.BOARD_InitPins.a2_config  pin_mux.o
-    0x100036b4   0x100036b4   0x00000002   Data   RO           49    .rodata..L__const.BOARD_InitPins.test_pin_config  pin_mux.o
-    0x100036b6   0x100036b6   0x00000010   Data   RO          440    .rodata.CLOCK_GetFllFreq.fllFactorTable  fsl_clock.o
-    0x100036c6   0x100036c6   0x0000000a   Data   RO           27    .rodata.mcgConfig_BOARD_BootClockRUN  clock_config.o
-    0x100036d0   0x100036d0   0x00000008   Data   RO           29    .rodata.oscConfig_BOARD_BootClockRUN  clock_config.o
-    0x100036d8   0x100036d8   0x00000018   Data   RO          148    .rodata.s_UartAdapterBase  uart_adapter.o
-    0x100036f0   0x100036f0   0x00000010   Data   RO         1434    .rodata.s_ftmBases  fsl_ftm.o
-    0x10003700   0x10003700   0x00000010   Data   RO         1433    .rodata.s_ftmClocks  fsl_ftm.o
-    0x10003710   0x10003710   0x00000008   Data   RO           28    .rodata.simConfig_BOARD_BootClockRUN  clock_config.o
-    0x10003718   0x10003718   0x0000002b   Data   RO           73    .rodata.str1.1      fsl_assert.o
-    0x10003743   0x10003743   0x00000055   Data   RO          124    .rodata.str1.1      fsl_debug_console.o
-    0x10003798   0x10003798   0x00000035   Data   RO          147    .rodata.str1.1      uart_adapter.o
-    0x100037cd   0x100037cd   0x00000041   Data   RO          225    .rodata.str1.1      serial_manager.o
-    0x1000380e   0x1000380e   0x0000003d   Data   RO          245    .rodata.str1.1      serial_port_uart.o
-    0x1000384b   0x1000384b   0x00000045   Data   RO          439    .rodata.str1.1      fsl_clock.o
-    0x10003890   0x10003890   0x0000006f   Data   RO          713    .rodata.str1.1      fsl_dspi.o
-    0x100038ff   0x100038ff   0x0000006a   Data   RO          899    .rodata.str1.1      fsl_edma.o
-    0x10003969   0x10003969   0x0000007b   Data   RO         1209    .rodata.str1.1      fsl_flexcan.o
-    0x100039e4   0x100039e4   0x000000d0   Data   RO         1432    .rodata.str1.1      fsl_ftm.o
-    0x10003ab4   0x10003ab4   0x00000036   Data   RO         1452    .rodata.str1.1      fsl_gpio.o
-    0x10003aea   0x10003aea   0x00000002   PAD
-    0x10003aec   0x10003aec   0x00000020   Data   RO         2203    Region$$Table       anon$$obj.o
+    0x100035f8   0x100035f8   0x00000092   Code   RO            4    .text.main          main.o
+    0x1000368a   0x1000368a   0x0000000e   Code   RO         2204    i.__scatterload_copy  mc_w.l(handlers.o)
+    0x10003698   0x10003698   0x00000002   Code   RO         2205    i.__scatterload_null  mc_w.l(handlers.o)
+    0x1000369a   0x1000369a   0x0000000e   Code   RO         2206    i.__scatterload_zeroinit  mc_w.l(handlers.o)
+    0x100036a8   0x100036a8   0x00000002   Data   RO           47    .rodata..L__const.BOARD_InitPins.BST_CHNL_0_config  pin_mux.o
+    0x100036aa   0x100036aa   0x00000002   Data   RO           48    .rodata..L__const.BOARD_InitPins.BST_CHNL_1_config  pin_mux.o
+    0x100036ac   0x100036ac   0x00000002   Data   RO           45    .rodata..L__const.BOARD_InitPins.a1_config  pin_mux.o
+    0x100036ae   0x100036ae   0x00000002   Data   RO           46    .rodata..L__const.BOARD_InitPins.a2_config  pin_mux.o
+    0x100036b0   0x100036b0   0x00000002   Data   RO           49    .rodata..L__const.BOARD_InitPins.test_pin_config  pin_mux.o
+    0x100036b2   0x100036b2   0x00000010   Data   RO          440    .rodata.CLOCK_GetFllFreq.fllFactorTable  fsl_clock.o
+    0x100036c2   0x100036c2   0x0000000a   Data   RO           27    .rodata.mcgConfig_BOARD_BootClockRUN  clock_config.o
+    0x100036cc   0x100036cc   0x00000008   Data   RO           29    .rodata.oscConfig_BOARD_BootClockRUN  clock_config.o
+    0x100036d4   0x100036d4   0x00000018   Data   RO          148    .rodata.s_UartAdapterBase  uart_adapter.o
+    0x100036ec   0x100036ec   0x00000010   Data   RO         1434    .rodata.s_ftmBases  fsl_ftm.o
+    0x100036fc   0x100036fc   0x00000010   Data   RO         1433    .rodata.s_ftmClocks  fsl_ftm.o
+    0x1000370c   0x1000370c   0x00000008   Data   RO           28    .rodata.simConfig_BOARD_BootClockRUN  clock_config.o
+    0x10003714   0x10003714   0x0000002b   Data   RO           73    .rodata.str1.1      fsl_assert.o
+    0x1000373f   0x1000373f   0x00000055   Data   RO          124    .rodata.str1.1      fsl_debug_console.o
+    0x10003794   0x10003794   0x00000035   Data   RO          147    .rodata.str1.1      uart_adapter.o
+    0x100037c9   0x100037c9   0x00000041   Data   RO          225    .rodata.str1.1      serial_manager.o
+    0x1000380a   0x1000380a   0x0000003d   Data   RO          245    .rodata.str1.1      serial_port_uart.o
+    0x10003847   0x10003847   0x00000045   Data   RO          439    .rodata.str1.1      fsl_clock.o
+    0x1000388c   0x1000388c   0x0000006f   Data   RO          713    .rodata.str1.1      fsl_dspi.o
+    0x100038fb   0x100038fb   0x0000006a   Data   RO          899    .rodata.str1.1      fsl_edma.o
+    0x10003965   0x10003965   0x0000007b   Data   RO         1209    .rodata.str1.1      fsl_flexcan.o
+    0x100039e0   0x100039e0   0x000000d0   Data   RO         1432    .rodata.str1.1      fsl_ftm.o
+    0x10003ab0   0x10003ab0   0x00000036   Data   RO         1452    .rodata.str1.1      fsl_gpio.o
+    0x10003ae6   0x10003ae6   0x00000002   PAD
+    0x10003ae8   0x10003ae8   0x00000020   Data   RO         2203    Region$$Table       anon$$obj.o
 
 
-    Execution Region RW_m_data_2 (Exec base: 0x20000000, Load base: 0x10003b0c, Size: 0x0000013c, Max: 0x0001f800, ABSOLUTE)
+    Execution Region RW_m_data_2 (Exec base: 0x20000000, Load base: 0x10003b08, Size: 0x0000013c, Max: 0x0001f800, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
-    0x20000000   0x10003b0c   0x00000004   Data   RW           63    .data.SystemCoreClock  system_mkv58f24.o
-    0x20000004   0x10003b10   0x00000004   Data   RW          442    .data.s_fastIrcFreq  fsl_clock.o
-    0x20000008   0x10003b14   0x00000004   Data   RW         1212    .data.s_flexcanIsr  fsl_flexcan.o
-    0x2000000c   0x10003b18   0x00000004   Data   RW          441    .data.s_slowIrcFreq  fsl_clock.o
-    0x20000010   0x10003b1c   0x00000004   Data   RW         2016    .data.s_uartIsr     fsl_uart.o
+    0x20000000   0x10003b08   0x00000004   Data   RW           63    .data.SystemCoreClock  system_mkv58f24.o
+    0x20000004   0x10003b0c   0x00000004   Data   RW          442    .data.s_fastIrcFreq  fsl_clock.o
+    0x20000008   0x10003b10   0x00000004   Data   RW         1212    .data.s_flexcanIsr  fsl_flexcan.o
+    0x2000000c   0x10003b14   0x00000004   Data   RW          441    .data.s_slowIrcFreq  fsl_clock.o
+    0x20000010   0x10003b18   0x00000004   Data   RW         2016    .data.s_uartIsr     fsl_uart.o
     0x20000014        -       0x0000001c   Zero   RW            9    .bss.ftmInfo        main.o
     0x20000030        -       0x0000000a   Zero   RW            8    .bss.ftmParam       main.o
-    0x2000003a   0x10003b20   0x00000002   PAD
+    0x2000003a   0x10003b1c   0x00000002   PAD
     0x2000003c        -       0x0000000c   Zero   RW          719    .bss.g_dspiHandle   fsl_dspi.o
     0x20000048        -       0x00000004   Zero   RW          125    .bss.g_serialHandle  fsl_debug_console.o
     0x2000004c        -       0x00000004   Zero   RW          438    .bss.g_xtal0Freq    fsl_clock.o
@@ -5139,14 +5139,14 @@ Memory Map of the image
     0x20000124        -       0x00000018   Zero   RW         2015    .bss.s_uartHandle   fsl_uart.o
 
 
-    Execution Region ARM_LIB_HEAP (Exec base: 0x2000013c, Load base: 0x10003b20, Size: 0x00000400, Max: 0x00000400, ABSOLUTE)
+    Execution Region ARM_LIB_HEAP (Exec base: 0x2000013c, Load base: 0x10003b1c, Size: 0x00000400, Max: 0x00000400, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
     0x2000013c        -       0x00000400   Zero   RW            1    ARM_LIB_HEAP.bss    anon$$obj.o
 
 
-    Execution Region ARM_LIB_STACK (Exec base: 0x2001fc00, Load base: 0x10003b20, Size: 0x00000400, Max: 0x00000400, ABSOLUTE)
+    Execution Region ARM_LIB_STACK (Exec base: 0x2001fc00, Load base: 0x10003b1c, Size: 0x00000400, Max: 0x00000400, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
@@ -5160,29 +5160,29 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       176          0         26          0          0       4120   clock_config.o
-        32          0         43          0          0        609   fsl_assert.o
-      2302         24         85          8          4      18604   fsl_clock.o
-       358          0         85          0         32       6314   fsl_debug_console.o
-       322          0        111          0         20      28205   fsl_dspi.o
-      1800          0        106          0        128      24265   fsl_edma.o
-       168          0          0          0         20      23976   fsl_enet.o
-       258          0        123          4         12      25391   fsl_flexcan.o
-      2774          0        240          0          0      15652   fsl_ftm.o
-       160          0         54          0          0       2575   fsl_gpio.o
-       160          0          0          0         16      22302   fsl_i2c.o
-      1254          0          0          0          0       5233   fsl_str.o
-       384          0          0          4         24      21432   fsl_uart.o
-       200          0          0          0         38       4975   main.o
-       834          0         10          0          0       5131   pin_mux.o
-       272          0         65          0          0       5877   serial_manager.o
-       130          0         61          0          0       3936   serial_port_uart.o
+       176          0         26          0          0       4121   clock_config.o
+        32          0         43          0          0        610   fsl_assert.o
+      2302         24         85          8          4      18605   fsl_clock.o
+       358          0         85          0         32       6315   fsl_debug_console.o
+       322          0        111          0         20      28206   fsl_dspi.o
+      1800          0        106          0        128      24266   fsl_edma.o
+       168          0          0          0         20      23977   fsl_enet.o
+       258          0        123          4         12      25392   fsl_flexcan.o
+      2774          0        240          0          0      15653   fsl_ftm.o
+       160          0         54          0          0       2576   fsl_gpio.o
+       160          0          0          0         16      22303   fsl_i2c.o
+      1254          0          0          0          0       5234   fsl_str.o
+       384          0          0          4         24      21433   fsl_uart.o
+       196          0          0          0         38       4960   main.o
+       834          0         10          0          0       5132   pin_mux.o
+       272          0         65          0          0       5878   serial_manager.o
+       130          0         61          0          0       3937   serial_port_uart.o
        532        260       1040          0          0       2907   startup_mkv58f24.o
-       280          0          0          4          0       4513   system_mkv58f24.o
-       146          0         77          0          0       5236   uart_adapter.o
+       280          0          0          4          0       4514   system_mkv58f24.o
+       146          0         77          0          0       5237   uart_adapter.o
 
     ----------------------------------------------------------------------
-     12818        284       2160         20       2344     231253   Object Totals
+     12814        284       2160         20       2344     231256   Object Totals
          0          0         32          0       2048          0   (incl. Generated)
        276          0          2          0          2          0   (incl. Padding)
 
@@ -5223,15 +5223,15 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     12956        300       2160         20       2344     231413   Grand Totals
-     12956        300       2160         20       2344     231413   ELF Image Totals
-     12956        300       2160         20          0          0   ROM Totals
+     12952        300       2160         20       2344     231416   Grand Totals
+     12952        300       2160         20       2344     231416   ELF Image Totals
+     12952        300       2160         20          0          0   ROM Totals
 
 ==============================================================================
 
-    Total RO  Size (Code + RO Data)                15116 (  14.76kB)
+    Total RO  Size (Code + RO Data)                15112 (  14.76kB)
     Total RW  Size (RW Data + ZI Data)              2364 (   2.31kB)
-    Total ROM Size (Code + RO Data + RW Data)      15136 (  14.78kB)
+    Total ROM Size (Code + RO Data + RW Data)      15132 (  14.78kB)
 
 ==============================================================================
 

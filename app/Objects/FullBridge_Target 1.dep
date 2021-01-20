@@ -23,8 +23,8 @@ I (..\devices\MKV58F24\drivers\fsl_clock.h)(0x5E2EB154)
 I (..\devices\MKV58F24\drivers\fsl_ftm.h)(0x5E2EB154)
 I (..\board\pin_mux.h)(0x5FAE51CD)
 I (..\board\clock_config.h)(0x5E31700A)
-I (..\..\test project\UserConfig.h)(0x5FF5C2AF)
-F (..\UserConfig.h)(0x5FF5C2AF)()
+I (..\UserConfig.h)(0x6006F3E4)
+F (..\UserConfig.h)(0x6006F3E4)()
 F (..\board\clock_config.c)(0x5E3172B2)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m7 -mfpu=fpv5-sp-d16 -mfloat-abi=hard -c-funsigned-char -fshort-enums -fshort-wchar-D__MICROLIB -gdwarf-3 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -I ../board -I ../components/uart -I ../components/serial_manager -I ../components/lists -I ../Include -I ../devices/MKV58F24 -I ../devices/MKV58F24/drivers -I ../devices/MKV58F24/utilities/str -I ../devices/MKV58F24/utilities/debug_console -I "../../test project"-I"C:/Users/Taraz Tech1/AppData/Local/Arm/Packs/NXP/MKV58F24_DFP/12.1.0"-IC:/Keil_v5/ARM/CMSIS/Include-D__UVISION_VERSION="532" -DCPU_MKV58F1M0VLQ24 -DDEBUG -DCPU_MKV58F1M0VLQ24 -DTWR_KV58F220M -DTOWER -DSERIAL_PORT_TYPE_UART="1"-o ./objects/clock_config.o -MD)
 I (..\board\clock_config.h)(0x5E31700A)
 I (..\devices\MKV58F24\drivers\fsl_common.h)(0x5E2EB154)
